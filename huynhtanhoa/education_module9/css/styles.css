@@ -39,22 +39,22 @@
   margin: 40px 0px;
   text-align: center;
 }
-.education_module9 .btn1 {
+.education_module9 .buttons .btn1 {
   background-color: #617bb3;
 }
-.education_module9 .btn2 {
+.education_module9 .buttons .btn2 {
   background-color: #e2452b;
 }
-.education_module9 .btn3 {
+.education_module9 .buttons .btn3 {
   background-color: #a549a8;
 }
-.education_module9 .btn4 {
+.education_module9 .buttons .btn4 {
   background-color: #008ccb;
 }
-.education_module9 .btn5 {
+.education_module9 .buttons .btn5 {
   background-color: #0f5eb5;
 }
-.education_module9 .login-btn {
+.education_module9 .buttons .login-btn {
   display: inline-block;
   padding: 7px 16px;
   background-image: none;
@@ -64,7 +64,7 @@
   margin: 0px 0px 10px 0px;
   min-width: 210px;
 }
-.education_module9 .login-btn i {
+.education_module9 .buttons .login-btn i {
   margin: 0px 10px 0px 0px;
   font-size: 18px;
 }

@@ -24,7 +24,6 @@
         <div class="education_module16">
             <div class="container">
                 <div class="row">
-                    <section class="gray-bg">
                         <div class="col-md-8">
                             <div class="faq">
                                 <h2>why choose us</h2>
@@ -104,7 +103,6 @@
 
                             </div>
                         </div>
-                    </section>
                 </div>
             </div>
         </div>
