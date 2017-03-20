@@ -1,0 +1,92 @@
+.events-details-module-1 {
+  background-color: #eeeeee !important;
+}
+.events-details-module-1 .text-detail {
+  float: left;
+  width: 100%;
+  margin: 20px 0px;
+}
+.events-details-module-1 p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  margin: 0 0 10px;
+  outline: none;
+}
+.events-details-module-1 .text-detail h2 {
+  font-size: 30px;
+  font-family: 'Crete Round', serif;
+  font-weight: normal;
+}
+.events-details-module-1 .text-detail ul li {
+  float: left;
+  width: 100%;
+  padding: 0px 0px 0px 20px;
+  position: relative;
+  margin: 5px 0px;
+}
+.events-details-module-1 .text-detail ul li:before {
+  content: "::";
+  color: #333;
+  font-size: 20px;
+  position: absolute;
+  left: 0px;
+}
+.events-details-module-1 .text-detail ul li a {
+  font-size: 20px;
+  color: #00a685;
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+  -webkit-box-sizing: border-box;
+}
+.events-details-module-1 a:-webkit-any-link {
+  cursor: auto;
+}
+.events-details-module-1 li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+.events-details-module-1 .text-detail ul {
+  float: left;
+  margin: 0px 0px 20px 0px;
+  padding: 0px;
+  width: 100%;
+  list-style: none;
+}
+.events-details-module-1 .map img {
+  width: 100%;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+@media (max-width: 480px) {
+  .events-details-module-1 p {
+    padding-top: 10px;
+  }
+  .events-details-module-1 .map img {
+    width: 100%;
+    padding-bottom: 15px;
+  }
+  .events-details-module-1 .admin .thumb img {
+    width: 500px;
+  }
+  .events-details-module-1 .admin .social-icons {
+    position: static;
+    margin: 10px 0px 10px 0px;
+    width: 100%;
+  }
+  .events-details-module-1 .text h2,
+  .events-details-module-1 p {
+    width: 100%;
+  }
+  .events-details-module-1 .leave-reply input[type="text"],
+  .events-details-module-1 .leave-reply textarea {
+    width: 100%;
+  }
+  .events-details-module-1 .event-page .leave-reply textarea {
+    width: 100%;
+  }
+}
